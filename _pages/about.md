@@ -1,3 +1,11 @@
+---
+permalink: /
+title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 Esta es la página principal de un sitio web que utiliza la plantilla [Academic Pages](https://github.com/academicpages/academicpages.github.io) y está alojado en GitHub Pages. [GitHub Pages](https://pages.github.com) es un servicio gratuito que permite crear y alojar sitios web a partir del código y los datos almacenados en un repositorio de GitHub, actualizándose automáticamente con cada nueva confirmación. Esta plantilla se derivó del tema [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), creado por Michael Rose, y se amplió para admitir el tipo de contenido que suelen tener los académicos: publicaciones, charlas, docencia, portafolio, entradas de blog y un currículum vitae generado dinámicamente. Además, estas mismas características la convierten en una excelente plantilla para cualquiera que necesite una imagen profesional.
 
 Puedes bifurcar [esta plantilla](https://github.com/academicpages/academicpages.github.io) ahora mismo, modificar la configuración y los archivos Markdown, añadir tus propios PDF y otro contenido, ¡y tener tu propio sitio web gratis y sin anuncios!
