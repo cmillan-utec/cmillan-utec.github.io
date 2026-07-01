@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "Publicaciones"
+permalink: /publicaciones/
+author_profile: true
+---
+
 ## Artículos de revistas
 - Llauca, H., **Millán-Arancibia, C.**, Endara, S., da Silva, R. M., Brasil Neto, R. M., & Santos, C. A. G. (2026). Benchmarking meteorological drought exposure across Peru using the NIFT index. Hydrological Sciences Journal, 1–19. https://doi.org/10.1080/02626667.2026.2673179
 -	Saavedra D, Siqueira VA, Brêda JPLF, **Millán-Arancibia C.** and Lavado-Casimiro W (2026) Impact of climate change on the magnitude and extent of riverine floods in a Peruvian Andean–Amazonian basin. Front. Water 8:1709082. doi: https://doi.org/10.3389/frwa.2026.1709082
