@@ -24,13 +24,13 @@ repository               : "cmillan-utec/cmillan-utec.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Your Sidebar Name"
+  name             : "Carlos Millán"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Especialista en hidrología en SENAMHI y profesor en UIC-Perú. Mi área de investigación se centra en la interrelación entre las precipitaciones y los movimientos en masa."
+  location         : "Jr. Medrano Silva 165, Barranco"
+  employer         : "UTEC"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "cmillan@utec.edu.pe" 
 
   # Academic websites
   academia         : # URL
